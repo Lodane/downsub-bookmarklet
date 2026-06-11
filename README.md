@@ -16,9 +16,6 @@ html:
 markdown:
 `[💬 downsub this 💬](javascript:\(function\(\)%7Bvar%20baseUrl%20%3D%20%22https%3A%2F%2Fsubtitle.to%2F%22%0Avar%20urlmod%20%3D%20document.URL%0Awindow.open\(baseUrl%20%2B%20urlmod%2C%20'_blank'\)%7D\)\(\)%3B)`
 
-markdown (live link)  
-[💬 downsub this 💬](javascript:\(function\(\)%7Bvar%20baseUrl%20%3D%20%22https%3A%2F%2Fsubtitle.to%2F%22%0Avar%20urlmod%20%3D%20document.URL%0Awindow.open\(baseUrl%20%2B%20urlmod%2C%20'_blank'\)%7D\)\(\)%3B)
-
 ---
 
 made with help from [caiorss @ github](https://github.com/caiorss/bookmarklet-maker) and [mrcoles.com](https://mrcoles.com/bookmarklet/) generators to double-check my code
